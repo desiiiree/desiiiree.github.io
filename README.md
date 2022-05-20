@@ -69,7 +69,7 @@ The engine was never completed so her program was never tested.
 In 1953, more than a century after her death, Ada Lovelace's notes on Babbage's Analytical Engine were republished as an appendix to B. V. Bowden's *Faster than Thought: A Symposium on Digital Computing Machines*. The engine has now been recognised as an early model for a computer and her notes as a description of a computer and software.
 
 
-## Further Reading
+## Further Reading and Resources
 
 *[Ada Lovelace, Wikipedia](https://en.wikipedia.org/wiki/Ada_Lovelace#Insight_into_potential_of_computing_devices)*
 
